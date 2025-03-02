@@ -1,0 +1,9 @@
+[
+  "checkNoPayment",
+  "getNumArguments",
+  "mBufferAppendBytes",
+  "mBufferSetBytes",
+  "managedSignalError",
+  "signalError",
+  "smallIntGetUnsignedArgument"
+]

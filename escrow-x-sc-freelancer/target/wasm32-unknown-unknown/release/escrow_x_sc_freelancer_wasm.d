@@ -1,0 +1,1 @@
+/home/osmanx/escrowX-freelancer/escrow-x-sc-freelancer/target/wasm32-unknown-unknown/release/escrow_x_sc_freelancer_wasm.wasm: /home/osmanx/escrowX-freelancer/escrow-x-sc-freelancer/src/escrow_x_sc_freelancer.rs /home/osmanx/escrowX-freelancer/escrow-x-sc-freelancer/wasm/src/lib.rs

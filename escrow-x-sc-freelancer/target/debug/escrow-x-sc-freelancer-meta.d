@@ -1,0 +1,1 @@
+/home/osmanx/escrowX-freelancer/escrow-x-sc-freelancer/target/debug/escrow-x-sc-freelancer-meta: /home/osmanx/escrowX-freelancer/escrow-x-sc-freelancer/meta/src/main.rs /home/osmanx/escrowX-freelancer/escrow-x-sc-freelancer/src/escrow_x_sc_freelancer.rs
